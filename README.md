@@ -1,4 +1,5 @@
 👋 About Me
+
 I’m a tech problem-solver and enthusiast with 4+ years of experience across Data Engineering, Data Analytics, and Business Analysis—building systems, pipelines, and dashboards that drive real impact. I’ve worked with teams at Cognizant, AndX, UConn Health, and now Streamer Stakes, combining strong technical skills with clear communication and a calm, F1-driver-level focus under pressure.
 
 I hold a Master’s in Business Analytics & Project Management from the University of Connecticut (Go Huskies! 🐺🐾), and I’m passionate about turning data into scalable, meaningful solutions.
